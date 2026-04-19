@@ -1,5 +1,21 @@
 # Sales Performance & Revenue Growth Dashboard
 
+## 📥 Download
+
+| File | Description |
+|---|---|
+| [📊 SalesPerformance.pbix](https://github.com/atishey4/sales-performance-revenue-dashboard-powerbi/raw/main/SalesPerformance.pbix) | Power BI Dashboard File |
+
+> **Note:** Download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to explore the full interactive dashboard.
+
+---
+
+## Dashboard Overview
+
+![Sales Performance Dashboard](screenshots/Screenshot%202026-04-19%20153621.png)
+
+---
+
 ## Objective
 To create an interactive Power BI dashboard that tracks sales trends, revenue growth, and product/category performance to help businesses make data-driven decisions.
 
@@ -109,15 +125,6 @@ Category-wise Profit = CALCULATE([Total Profit], ALLEXCEPT(SalesData, SalesData[
 - **Total Revenue of ₹39.17M** and **Total Profit of ₹13.35M** reflect a healthy **Profit Margin of 34.1%**
 - Sales executives like **Ananya Roy and Arjun Singh** are among the top contributors by revenue across their respective regions
 - **New customers** across regions represent a significant volume of units sold, indicating successful acquisition efforts
-
----
-
-## Screenshots
-
-### Dashboard Overview
-![Sales Performance Dashboard](screenshots/dashboard_overview.png)
-
-> *Add your Power BI dashboard screenshot here. Export from Power BI → File → Export → Export to PDF or take a screenshot and save in the `screenshots/` folder.*
 
 ---
 
